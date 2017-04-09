@@ -13,7 +13,6 @@
 /Human.class
 /IntroToTests.class
 /James_Bond.class
-/Jeopardy.class
 /Kettle$Water.class
 /Kettle.class
 /LotteryOne.class
@@ -31,6 +30,7 @@
 /SimonSays.class
 /SimpleCalculator.class
 /SimplePainter.class
+/StringTests.class
 /Supply.class
 /TeaBag.class
 /TeaMaker.class
@@ -42,4 +42,5 @@
 /ifYouOrALovedOneHasBeenDiagnosedWithMesotheliomaThenYouMayBeEntitledToFinancialCompensation.class
 /leftArrow.png
 /spooky.wav
-/StringTests.class
+/LeagueInvaders.class
+/GamePanel.class
